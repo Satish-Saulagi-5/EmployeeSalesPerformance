@@ -63,8 +63,8 @@ VIEW `northwind`.`employeesalesperformance` AS
 
 
 ## Dashboard Preview  
+See `EmployeeSalesDashboard.png` in this repository for the Power BI dashboard screenshot.
 
-![Employee Sales Dashboard](https://github.com/Satish-Saulagi-5/EmployeeSalesPerformance.git)
 
 
 
