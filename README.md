@@ -64,7 +64,7 @@ VIEW `northwind`.`employeesalesperformance` AS
 
 ## Dashboard Preview  
 
-![Employee Sales Dashboard](EmployeeSalesPerformance.png]
+![Employee Sales Dashboard](EmployeeSalesPerformance.png)
 
 
 
