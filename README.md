@@ -60,8 +60,11 @@ VIEW `northwind`.`employeesalesperformance` AS
         JOIN northwind.orderdetail o ON s.orderId = o.orderId
     GROUP BY e.employeeId
     ORDER BY total DESC;
-## Dashboard Preview
 
-![Employee Sales Dashboard](EmployeeSalesDashboard.png)
+
+
+## Dashboard Link:
+![Employee Sales Dashboard](https://github.com/<your-username>/<your-repo>/blob/main/EmployeeSalesDashboard.png?raw=true)
+
 
 
