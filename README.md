@@ -64,7 +64,8 @@ VIEW `northwind`.`employeesalesperformance` AS
 
 ## Dashboard Preview  
 
-![Employee Sales Dashboard](EmployeeSalesPerformance.png)
+![Employee Sales Dashboard](https://raw.githubusercontent.com/Satish-Saulagi-5/EmployeeSalesPerformance/main/EmployeeSalesDashboard.png)
+
 
 
 
