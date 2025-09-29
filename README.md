@@ -62,9 +62,10 @@ VIEW `northwind`.`employeesalesperformance` AS
     ORDER BY total DESC;
 
 
+## Dashboard Preview  
 
-## Dashboard Link:
-![Employee Sales Dashboard](https://github.com/<your-username>/<your-repo>/blob/main/EmployeeSalesDashboard.png?raw=true)
+![Employee Sales Dashboard](https://github.com/Satish-Saulagi-5/EmployeeSalesPerformance/blob/main/EmployeeSalesDashboard.png?raw=true)
+
 
 
 
