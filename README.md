@@ -58,15 +58,15 @@ VIEW `northwind`.`employeesalesperformance` AS
         northwind.employee e
         JOIN northwind.salesorder s ON e.employeeId = s.employeeId
         JOIN northwind.orderdetail o ON s.orderId = o.orderId
-    GROUP BY e.employeeId
+    GROUP BY e.employeeId 
     ORDER BY total DESC;
 
 
 ## Dashboard Preview  
 See `EmployeeSalesDashboard.png` in this repository for the Power BI dashboard screenshot.
 
-
-
+## SQL Query  
+See `EmployeeSalesPerformance.sql` in this repository for the MySQL query used to calculate total sales by employee from the Northwind database.
 
 
 
